@@ -13,8 +13,8 @@
 <br>1merge.png – Feature branch merged into main branch
 <br>logs.png – Git log showing clear commit history with multiple commits and a merge</p>
 
-<p>This proves:
 
+<p>This proves:
 <br>Multiple commits with descriptive messages
 <br>Branching and merging followed
 <br>Logs showing a clean commit history
