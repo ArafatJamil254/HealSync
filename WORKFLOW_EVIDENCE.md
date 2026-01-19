@@ -2,7 +2,7 @@
 <p>This folder (gitbash-evidence/) contains screenshots of the Git workflow for the LifeCloud project.</p>
 <h3>Screenshots</h3>
 <p>clone.png – Repository cloned from GitHub
-<ul><li><br>branch.png – Feature branch trello-updates created</li>
+<ul><br><li>branch.png – Feature branch trello-updates created</li>
 <br><li>commit1.png – First commit (Initial Trello board with 5 tasks in To Do, In Progress empty)</li>
 <br><li>commit2.png – Second commit (Login for Admin moved to In Progress, Register for Doctor added to To Do)</li>
 <br><li>commit3.png – Third commit (Update Patient Info as Admin moved to In Progress, Register for Patient added to To Do)</li>
@@ -13,7 +13,7 @@
 <br><li>1merge.png – Feature branch merged into main branch</li>
 <br><li>logs.png – Git log showing clear commit history with multiple commits and a merge</li></ul></p>
 
-
+<br><br>
 <p>This proves:
 <br><ul><li>Multiple commits with descriptive messages</li>
 <br><li>Branching and merging followed</li>
